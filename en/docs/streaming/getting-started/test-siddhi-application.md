@@ -14,7 +14,7 @@ In [Step 2: Create the Siddhi Application]({{base_path}}/streaming/getting-start
 2. To install the `cdc-mysql` extension, issue the following command from the `<SI_HOME>/bin` directory. 
 
     - For Windows: `extension-installer.bat install cdc-mysql`</br>
-    - For Linux/Mac OS:  `./extension-installer.sh install install cdc-mysql`
+    - For Linux/Mac OS:  `./extension-installer.sh install cdc-mysql`
     
     Once the installation is complete, a message is logged to inform you that the extension is successfully installed.
     
